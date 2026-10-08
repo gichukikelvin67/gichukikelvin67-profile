@@ -142,3 +142,10 @@ To build reliable software that helps businesses in Kenya and across Africa digi
  portfolio:https://portfolio-yc7p.vercel.app/
 
 === Building software that solves real problems.
+
+📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gichukikelvin67&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gichukikelvin67&theme=transparent&hide_border=true" />
+</p>
