@@ -137,5 +137,8 @@ To build reliable software that helps businesses in Kenya and across Africa digi
  GitHub: [@gichukikelvin67](https://github.com/gichukikelvin67)
 
  Email: gichukikelvin679@gmail.com
+ phone:0758475640
+ linkendl:www.linkedin.com/in/kelvin-gichuki-402b0a437
+ portfolio:https://portfolio-yc7p.vercel.app/
 
 === Building software that solves real problems.
